@@ -2,8 +2,6 @@
 
 ### Dev em Front-end e Back-end
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=JoaoPedroDev12&label=Profile views&color=0e75b6&style=flat" alt="JoaoPedroDev12" /> </p>
-
 - 🔭 I'm currently working on **Sites para automação **
 
 - 🌱 I'm currently learning **Estudando ADS📚**
@@ -16,8 +14,8 @@ Aprendendo sobre Automação**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/JoaoPedroDev12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="JoaoPedroDev12" height="30" width="40" /></a>
-<a href="https://instagram.com/Joao Pedro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Joao Pedro" height="30" width="40" /></a>
-<a href="https://discord.gg/joaopedrocv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="joaopedrocv" height="30" width="40" /></a>
+<a href="https://instagram.com/Joao_Pedias" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Joao Pedro" height="30" width="40" /></a>
+<a href="https://discord.gg/(https://discord.gg/duYbHmMV)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="joaopedrocv" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
